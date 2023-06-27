@@ -5,8 +5,8 @@
     <p>Please leave me a feedback for this form.</P>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <label for="Full Name"><b>Enter Name</b></label>
+    <input type="text" placeholder="Enter Full Name" name="Full Name" id="Full Name" required>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
